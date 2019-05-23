@@ -1,6 +1,6 @@
-* 米周
-* 博客
-* 关于我
-  * 简介
-  * 铁人三项
-  * 联系
+* [米周](index)
+* [博客](blog)
+* [关于我](about)
+  * [简介](about#intro)
+  * [铁人三项](about#tri)
+  * [联系](about#contact)
